@@ -2,6 +2,6 @@
   "extends": "./tsconfig.json",
   "exclude": ["node_modules", "tests", "**/*.test.ts"],
   "compilerOptions": {
-    "types": []   // ignore dev-only types for production
+    "types": []   
   }
 }
