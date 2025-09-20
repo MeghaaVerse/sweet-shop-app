@@ -127,7 +127,7 @@ npm test
 | RESTOCK log      | ![RESTOCK](assets/images/restock.jpg)    |
 | DAMAGE log     | ![DAMAGE](assets/images/damage.jpg)    |
 | EXPIRED log | ![EXPIRED](assets/images/expired.jpg)    |
-| SALES log |![SALES](assets/images/deleteSweet.jpg)|
+| SALES log |![SALES](assets/images/sales.jpg)|
 
 
 
