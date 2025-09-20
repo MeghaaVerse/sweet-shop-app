@@ -12,7 +12,6 @@ A full-stack web application for managing a sweet shop inventory with real-time 
 - [Test Coverage](#test-coverage)  
 - [Screenshots](#screenshots)  
 - [My AI Usage](#my-ai-usage)  
-- [Deployment](#deployment)  
 - [License](#license)  
 
 ---
@@ -117,7 +116,7 @@ npm test
 | Add Sweet      | ![Add Sweet](assets/images/addSweet.jpg)    |
 | Edit Sweet     | ![Edit Sweet](assets/images/editSweet.jpg)    |
 | Stock Update | ![Stock Update](assets/images/stockUpdate.jpg)    |
-|Delete Sweet |![Delete Sweet](assets/images/deleteSweet.jpg)|
+
 
 ### Inventory Management: Real-time stock updates
 ![Inventory Management](assets/images/inventory.jpg)
