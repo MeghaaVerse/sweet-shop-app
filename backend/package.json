@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "node dist/app.js",
+    "build": "tsc && npx prisma generate",
     "dev": "nodemon src/app.ts",
-    "build": "tsc",
+    
     "test": "jest ",
     "postinstall": "npx prisma generate",
     "db:deploy": "npx prisma migrate deploy",
