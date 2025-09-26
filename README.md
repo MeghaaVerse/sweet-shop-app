@@ -106,7 +106,7 @@ npm test
 ### Screenshots
 
 ## Dashboard: Analytics cards with live stats
-![Dashboard](assets/images/dashboard.jpg)
+![Dashboard](assets/images/Dashboard.jpg)
 
 ### Sweet Management: CRUD interface with search/filter
 ![Sweet Management](assets/images/sweet-management.jpg)
